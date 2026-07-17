@@ -4,10 +4,10 @@
 # ==============================================================================
 
 require("colorspace")
-source("R/formlist.R")
-source("R/addresponse.R")
-source("R/plot/dateAxis.R")
-#source("R/plot/bwplot.R")
+source("formlist.R")
+source("addresponse.R")
+source("dateAxis.R")
+#source("bwplot.R")
 
 #{{ PRE-PANEL FUNCTIONS
 
